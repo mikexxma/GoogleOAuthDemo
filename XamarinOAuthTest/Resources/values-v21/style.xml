@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <!-- Inherit from the light Material Theme -->
+  <style name="MyCustomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+    <item name="android:windowTranslucentStatus">false</item>
+
+    <!-- Customizations go here -->
+  </style>
+</resources>
